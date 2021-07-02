@@ -33,6 +33,12 @@ Parts of layout such as header, section and footer are **single file component**
 
 ![Imgur](https://i.imgur.com/8VeSddn.png)
 
+## Component hierarchy
+![Imgur](https://i.imgur.com/cv6iRKs.png)
+
+## Router View Relation
+![Imgur](https://i.imgur.com/jnW12a0.png)
+
 ## Functions
 
 Film online shop's functions are archived by different views. As corresponding route-link is clicked, route-view would be replaced by different views.
